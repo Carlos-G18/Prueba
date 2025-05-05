@@ -1,6 +1,9 @@
 **Proyecto de Análisis y Diseño de Recursos Educativos**
+
 **Tema del recurso educativo:** 
+
 Comunicación oral y escrita
+
 **Tipo de educación:** 
 Formal
 **Grado:** 
